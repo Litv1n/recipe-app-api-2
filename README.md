@@ -1,3 +1,10 @@
+# Updated version of the [recipe-app-api](https://github.com/Litv1n/recipe-app-api).
+New version includes:
+- Django 4 instead of Django 2
+- GitHub Actions replacing Travis-CI
+- This project have been deployed on AWS
+- Automated documentation feature using Swagger
+
 # Pre setup
 
 ## Virtual environment
@@ -23,6 +30,13 @@ docker-compose build
 ```
 
 # Usage
+
+# API documentation
+To check Swagger API documentation go to the ```url```:
+
+```
+http://127.0.0.1:8000/api/docs/
+```
 
 ## User
 
