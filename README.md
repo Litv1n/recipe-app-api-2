@@ -31,7 +31,7 @@ docker-compose build
 
 # Usage
 
-# API documentation
+## API documentation
 
 To check and test the Swagger API documentation go to the ```url```:
 
