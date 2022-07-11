@@ -32,7 +32,8 @@ docker-compose build
 # Usage
 
 # API documentation
-To check Swagger API documentation go to the ```url```:
+
+To check and test the Swagger API documentation go to the ```url```:
 
 ```
 http://127.0.0.1:8000/api/docs/
